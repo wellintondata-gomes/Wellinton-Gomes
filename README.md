@@ -3,7 +3,7 @@
 🎯 Analista de Dados em formação, focado em transformar dados em insights para tomada de decisão.
 
 ## 🚀 Objetivo
-Atuar como Analista de Dados transformando-os em informação valiosa e gerando insights para tomada de decisão.
+Atuar como Analista de Dados, utilizando Python, SQL e ferramentas de visualização para gerar valor através dos dados.
 
 ## 🧠 Habilidades em desenvolvimento
 - Python (Pandas, análise de dados)
