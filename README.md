@@ -1,4 +1,4 @@
-# Olá, eu sou o Wellinton Gomes 👋
+# Olá, Wellinton Gomes aqui 👋
 
 🎯 Analista de Dados em formação, focado em transformar dados em insights para tomada de decisão.
 
