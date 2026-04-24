@@ -1,6 +1,6 @@
 # Olá, Wellinton Gomes aqui! 👋
 
-🎯 Estudante em transição para a área de Dados, com foco em Análise de Dados.
+🎯 Analista de Dados em formação, focado em transformar dados em insights para tomada de decisão.
 
 ## 🚀 Objetivo
 Atuar como Analista de Dados transformando-os em informação valiosa e gerando insights para tomada de decisão.
